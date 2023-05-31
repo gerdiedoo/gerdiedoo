@@ -9,4 +9,4 @@ gerdiedoo/gerdiedoo is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 <!-- ![Alt Text](Dino_non-birthday_version.gif) -->
-<img src="Dino_non-birthday_version.gif" alt="Alt Text" width="500">
+<img src="Dino_non-birthday_version.gif" alt="Alt Text" width="1500">
